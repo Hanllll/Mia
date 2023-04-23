@@ -1,0 +1,23 @@
+html{background: #1d1f21;
+    margin: 0;
+}
+
+#Box1{
+    border: 2px solid white;
+}
+#Mia{
+    height: 500px;
+    border: 5px solid wheat;
+    display: block; /*display block taks the whole width*/
+    margin-left: auto;
+    margin-right: auto;
+    }
+#MiaAndLatte{
+    border: 2px solid yellow;
+    color: wheat;
+    font-size: 3rem;
+    font-family: 'Sigmar', cursive;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
